@@ -10,9 +10,9 @@ This repository contains MATLAB code for performing image denoising using differ
 </p>
 <p align="center">
     <em>    Visualization of Results<br>
-    Left: Original Image; 
-    Middle: Noise Image; 
-    Right: Denoised Image.</em>
+    (a) Original Image; 
+    (b) Noise Image; 
+    (c) Denoised Image.</em>
 </p>
 
 ## Prerequisites
